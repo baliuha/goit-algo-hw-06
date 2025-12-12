@@ -2,7 +2,11 @@
 
 For this assignment, we analyzed a graph consisting of a graph with nodes A-E.
 The objective was to find and compare paths from node **G** to node **D**.
-<img src="graph.jpg" alt="Graph structure" width="300"/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/163070b3-f36d-4bd6-8e60-6a1965ab40a0"
+       width="350">
+</p>
 
 ## Results
 
